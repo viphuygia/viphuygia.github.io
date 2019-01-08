@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Angular\demo2-app\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\Angular\my-login3\src\styles.css */"./src/styles.css");
 
 
 /***/ })
